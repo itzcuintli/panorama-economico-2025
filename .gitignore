@@ -1,5 +1,2 @@
 # Ignorar cachés y archivos temporales
 .DS_Store
-*.pyc
-.idea/
-node_modules/
