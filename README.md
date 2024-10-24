@@ -88,6 +88,14 @@ Esta recuperación será impulsada por grandes proyectos de infraestructura ener
 
 ---
 
+## Mapa Comparativo de Estimadores
+
+Este mapa puede ser utilizado en futuras versiones del reporte para incluir una visualización interactiva de los estimadores económicos de Tamaulipas y México.
+
+![Mapa Comparativo de Estimadores de Tamaulipas y México ](https://github.com/itzcuintli/panorama-economico-2025/blob/main/mapa_estimadores.png?raw=true)
+
+---
+
 ## Siguientes Pasos
 
 1. **Seguir añadiendo indicadores adicionales**: Para fortalecer el análisis económico de Tamaulipas, se incluirán los siguientes indicadores en futuras versiones del documento:
